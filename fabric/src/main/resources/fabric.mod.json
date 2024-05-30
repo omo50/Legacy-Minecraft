@@ -42,6 +42,7 @@
     "embeddium": "*"
   },
   "conflicts": {
+    "vulkanmod": "*",
     "lemclienthelper": "*",
     "sodium-extra": "*",
     "reeses-sodium-options": "*",

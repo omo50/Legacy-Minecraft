@@ -26,6 +26,7 @@
     "ClientLevelStorageSourceMixin",
     "ClientMinecraftServerMixin",
     "ClientPacketListenerMixin",
+    "ClientPersistentEntitySectionManagerMixin",
     "ClientPrimaryLevelDataMixin",
     "ClientTextTooltipMixin",
     "ContainerScreenMixin",
@@ -34,6 +35,7 @@
     "CreateWorldScreenMixin",
     "CycleableValueSet",
     "CyclingSlotBackgroundMixin",
+    "DeathScreenMixin",
     "EffectRenderingInventoryScreenMixin",
     "EnchantmentScreenMixin",
     "EndCrystalRendererMixin",
@@ -81,8 +83,7 @@
     "SmithingScreenMixin",
     "StonecutterScreenMixin",
     "ToastComponentMixin",
-    "TutorialToastMixin",
-    "ClientMinecraftServerMixin"
+    "TutorialToastMixin"
   ],
   "mixins": [
     "AbstractContainerMenuMixin",
@@ -98,6 +99,7 @@
     "CraftingTableBlockMixin",
     "DedicatedServerPropertiesMixin",
     "DispenserMenuMixin",
+    "EmptyMapItemMixin",
     "EnchantmentMenuMixin",
     "EndDragonFightMixin",
     "EntityMixin",
