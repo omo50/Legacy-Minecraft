@@ -45,7 +45,6 @@
     "vulkanmod": "*",
     "lemclienthelper": "*",
     "sodium-extra": "*",
-    "reeses-sodium-options": "*",
-    "modmenu": "*"
+    "reeses-sodium-options": "*"
   }
 }
